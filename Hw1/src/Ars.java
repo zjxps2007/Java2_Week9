@@ -5,7 +5,7 @@ public class Ars {
                 return i;
             }
         }
-        return 0;
+        return -1;
     }
 
     public static void sort(Person[] a) {

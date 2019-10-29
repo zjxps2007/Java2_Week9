@@ -36,6 +36,6 @@ public class Student extends Person{
     }
 
     public String toString() {
-        return (name+"  GPA: "+gpa);
+        return (name+"  \tGPA: "+gpa);
     }
 }
